@@ -1,4 +1,8 @@
-![Привет GIF](https://raw.githubusercontent.com/MrEgor123/MrEgor123/main/banner.gif)
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
 # Привет! Я Егор 👋
 
