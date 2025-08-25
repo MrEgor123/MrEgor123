@@ -1,3 +1,5 @@
+![Привет GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 # Привет! Я Егор 👋
 
 Я Junior Python Developer. Люблю писать веб-приложения на Django и FastAPI, делаю REST API, пробую ботов и интересуюсь DevOps-инструментами (Docker, Linux).
