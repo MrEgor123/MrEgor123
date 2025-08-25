@@ -1,4 +1,4 @@
-![Привет GIF]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://tenor.com/ru/view/ngoding-mulu-gif-1747207714643625346))
+![Привет GIF](https://github.com/MrEgor123/MrEgor/raw/main/profile.gif)
 
 # Привет! Я Егор 👋
 
