@@ -1,4 +1,4 @@
-![Привет GIF](https://github.com/MrEgor123/MrEgor/raw/main/banner.gif)
+![Привет GIF](https://github.com/MrEgor123/MrEgor123/raw/main/banner.gif)
 
 # Привет! Я Егор 👋
 
