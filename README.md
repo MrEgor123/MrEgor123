@@ -1,10 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="welcome-header.gif" alt="welcome to my github profile" width="100%" />
-  <h1>Привет, я Егор 👋</h1>
-  <p>
-    Junior Python Developer • Django • FastAPI • PostgreSQL • Docker
-  </p>
+  <img src="egor_banner_minimalism.gif" alt="Hi, I am Egor — neon banner" width="100%" />
+  <br /><br />
+</div>
 
   <!-- Quick Badges -->
   <p>
