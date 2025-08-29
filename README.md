@@ -7,9 +7,6 @@
   <!-- Quick Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=MrEgor123&label=Просмотры&style=for-the-badge&color=0e75b6" alt="profile views" />
-    <a href="https://github.com/MrEgor123?tab=followers">
-      <img src="https://img.shields.io/github/followers/MrEgor123?label=Подписчики&style=for-the-badge&color=0e75b6" alt="followers" />
-    </a>
     <img src="https://img.shields.io/badge/Статус-Open%20to%20Work-22c55e?style=for-the-badge" alt="open to work" />
   </p>
 
