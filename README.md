@@ -91,14 +91,6 @@
 
 ---
 
-## 🚀 чем буду полезен команде
-- быстро подниму API (FastAPI/Django REST), авторизацию и роли  
-- спроектирую БД, миграции Alembic, оптимизирую запросы  
-- заверну сервисы в Docker, настрою Nginx + Gunicorn, CI/CD в GitHub Actions  
-- оформлю Swagger/Redoc, настрою pre-commit и базовые тесты
-
----
-
 ## 📊 github-метрики
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrEgor123&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" alt="stats" />
