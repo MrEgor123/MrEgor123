@@ -55,8 +55,8 @@
 <details>
 <summary><b>инструменты и практики</b></summary>
 
-- форматирование и стиль: ruff; black; pre-commit  
-- тестирование: pytest; httpx; pytest-asyncio  
+- форматирование и стиль: ruff; pre-commit  
+- тестирование: pytest; 
 - документация API: OpenAPI/Swagger; Redoc  
 - мониторинг и логи: структурированные логи, валидации pydantic  
 - деплой: docker-compose; .env; миграции alembic; Nginx + Gunicorn; GitHub Actions  
