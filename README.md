@@ -29,7 +29,7 @@
 ## 🧭 О себе:
 - Занимаюсь разработкой веб-приложений (на Django, FastAPI, Flask) и написанием API (DjangoRestFramework)
 - Работаю с БД, проекирую схемы, пишу SQL-запросы (PostgreSQL, MySQL, SQLite3, SQLAlchemy)
-- Рополнительно изучаю: Docker, Nginx, Gunicorn, GitHub Actions (CI/CD)  
+- Дополнительно изучаю: Docker, Nginx, Gunicorn, GitHub Actions (CI/CD)  
 
 ---
 
